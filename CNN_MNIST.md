@@ -186,6 +186,9 @@ with torch.no_grad():  ---> 이미 학습시킨 모델이므로, gradient를 추
 y_pred = y_pred.argmax(axis=1)
 
 ```
+<br>
+<br>
+
 
 >## 정리   
 >train과 test 코드는 기본적으로 크게 달라지는 부분이 없다.   
