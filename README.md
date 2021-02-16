@@ -3,6 +3,7 @@
 *****
 
 >## 실습예제   
+>#### github 블로그 <a href = "https://jiyun1006.github.io/blog/categories/AI/#/">[클릭]</a>
 
 <br>
 
@@ -16,4 +17,10 @@
 
 <br>
 
-### **<a href = "https://github.com/jiyun1006/jiyun1006.github.io/blob/master/_posts/2021-02-15-NLP_preprocessing.md">Naive Bayes classifier 구현</a>**      
+### **<a href = "https://github.com/jiyun1006/jiyun1006.github.io/blob/master/_posts/2021-02-15-NLP_preprocessing(1).md">Naive Bayes classifier 구현</a>**    
+
+
+<br>
+
+
+### **<a href = "https://github.com/jiyun1006/jiyun1006.github.io/blob/master/_posts/2021-02-15-NLP_preprocessing(2).md">Word2Vec - CBOW, Skip-gram 구현</a>**   
