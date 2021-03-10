@@ -13,7 +13,7 @@
 
 <br>
  
-*colab에서 노트 설정을 gpu로 설정.*   
+*colab에서 노트 설정을 gpu로 설정했음.*   
 ```
 USE_CUDA = torch.cuda.is_available() ---> GPU를 사용가능하면 True, 아니라면 False를 리턴
 
