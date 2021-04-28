@@ -34,3 +34,7 @@
 
 ### **<a href = "https://github.com/jiyun1006/jiyun1006.github.io/blob/master/_posts/2021-02-18-Transformer.md"> Transformer - Multi-head-Attention</a>**
 
+
+<br>
+
+### **<a hrerf = "https://github.com/jiyun1006/deeplearning-pytorch/blob/main/1x1convolution.md"> 1x1 Convolution </a>**
