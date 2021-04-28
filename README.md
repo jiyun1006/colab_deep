@@ -37,4 +37,4 @@
 
 <br>
 
-### **<a hrerf = "https://github.com/jiyun1006/deeplearning-pytorch/blob/main/1x1convolution.md"> 1x1 Convolution </a>**
+### **<a href = "https://github.com/jiyun1006/deeplearning-pytorch/blob/main/1x1convolution.md">1x1 Convolution </a>**
